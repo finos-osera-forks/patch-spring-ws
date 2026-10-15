@@ -6,3 +6,4 @@ members:
   - org.springframework.ws:spring-ws-support
   - org.springframework.ws:spring-ws-test
   - org.springframework.ws:spring-xml
+  - org.springframework.ws:spring-ws
